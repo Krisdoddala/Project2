@@ -40,12 +40,12 @@ Step 11 : Next we need to find the number of secular and non-secular colleges be
 
 Step 12 : We need to create the appropriate bar graph using ggplot. It should look something like this.
 
-![](https://github.com/Krisdoddala/Project2/blob/master/images/shot4.PNG)
+![](images/shot4.PNG)
 
 Step 13 : Next we need to find the number of secular and non-secular colleges after 1812.
 
 Step 14 : We need to create the appropriate bar graph using ggplot. It should look something like this.
 
-![](https://github.com/Krisdoddala/Project2/blob/master/images/shot5.PNG)
+![](images/shot5.PNG)
 
 If you have any questions regarding this project, feel free to email me at kris.doddala@gmail.com. Thank you and hope to hear from you soon:)
