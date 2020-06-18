@@ -11,7 +11,7 @@ Step 1 : If you've never installed RStudio on your laptop/Desktop, please go to 
 
 Step 2 : After the installation of RStudio, please download my project repository.
 
-Step 3 : Extract the Project1 repository to a particular location on your system.
+Step 3 : Extract the Project2 repository to a particular location on your system.
 
 Step 4 : Now, open RStudio. Then, Click File>Open File then select the datawrangling.R that's in the repository. Then you should have something like this.
 
